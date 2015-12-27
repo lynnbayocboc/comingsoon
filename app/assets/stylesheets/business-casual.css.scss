@@ -6,7 +6,7 @@
 
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: image-url("Romantic48.jpg") no-repeat center center fixed;
+    background: image-url("Background2.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -189,4 +189,9 @@ footer p {
         display: table;
         clear: both;
     }
+}
+
+.prettyfont {
+  font-family: "font-family: 'Times New Roman", Georgia, Serif;
+
 }
